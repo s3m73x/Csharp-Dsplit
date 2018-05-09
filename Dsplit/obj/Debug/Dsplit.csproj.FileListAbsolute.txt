@@ -1,0 +1,7 @@
+C:\Users\felix\source\repos\Dsplit\Dsplit\bin\Debug\Dsplit.exe.config
+C:\Users\felix\source\repos\Dsplit\Dsplit\bin\Debug\Dsplit.exe
+C:\Users\felix\source\repos\Dsplit\Dsplit\bin\Debug\Dsplit.pdb
+C:\Users\felix\source\repos\Dsplit\Dsplit\obj\Debug\Dsplit.csprojAssemblyReference.cache
+C:\Users\felix\source\repos\Dsplit\Dsplit\obj\Debug\Dsplit.csproj.CoreCompileInputs.cache
+C:\Users\felix\source\repos\Dsplit\Dsplit\obj\Debug\Dsplit.exe
+C:\Users\felix\source\repos\Dsplit\Dsplit\obj\Debug\Dsplit.pdb
